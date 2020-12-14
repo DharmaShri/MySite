@@ -1,2 +1,0 @@
-1. you need to config "git"befour you use GitHub - Desktop.
-otherwise will call error mesage say "Who you are?"
