@@ -98,6 +98,10 @@
 	color: #717070;
 	cursor: pointer;
 }
+.secondary_header ul li a {
+		color: #FFFFFF;
+		text-decoration: none;
+}
 .left_article {
 	background-color: #FFFFFF;
 	width: 60%;
