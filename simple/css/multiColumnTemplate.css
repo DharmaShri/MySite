@@ -98,13 +98,15 @@
 	color: #717070;
 	cursor: pointer;
 }
-.secondary_header ul li:hover a {
-	color: #2C9AB7;
-}
+
 .secondary_header ul li a {
 		color: #FFFFFF;
 		text-decoration: none;
 }
+.secondary_header ul li:hover a {
+	color: #2C9AB7;
+}
+
 .left_article {
 	background-color: #FFFFFF;
 	width: 60%;
